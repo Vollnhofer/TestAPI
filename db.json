@@ -1,0 +1,20 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "Taucherbrille"
+    },
+	    {
+      "id": 2,
+      "title": "Schnorchel"
+    },
+	    {
+      "id": 3,
+      "title": "Badehose"
+    },
+	    {
+      "id": 4,
+      "title": "Handtuch"
+    }
+  ]
+}
